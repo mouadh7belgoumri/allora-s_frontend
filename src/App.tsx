@@ -7,7 +7,7 @@ import './App.css'
 const App = () => {
   return (
     <>
-      <div className=" bg-[#698996] h-dvh">
+      <div className=" h-dvh">
         <NavBar/>
         <Hero/>
       </div>
